@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Adobo",
+        "calories": 400,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Sinigang na Baboy",
+        "calories": 300,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Lechon",
+        "calories": 500,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Pancit Canton",
+        "calories": 350,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Kare-Kare",
+        "calories": 450,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Lumpiang Shanghai",
+        "calories": 200,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Sisig",
+        "calories": 400,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Bicol Express",
+        "calories": 350,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Puto",
+        "calories": 150,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Halo-Halo",
+        "calories": 300,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Bibingka",
+        "calories": 250,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Turon",
+        "calories": 180,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Laing",
+        "calories": 350,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Pancit Malabon",
+        "calories": 400,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Tocino",
+        "calories": 350,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Dinuguan",
+        "calories": 300,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Bangus (Milkfish)",
+        "calories": 200,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Suman",
+        "calories": 180,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Chicharr\u00f3n",
+        "calories": 500,
+        "date_added": "2025-04-18"
+    },
+    {
+        "name": "Kwek-Kwek",
+        "calories": 250,
+        "date_added": "2025-04-18"
+    }
+]
