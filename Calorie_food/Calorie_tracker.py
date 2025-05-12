@@ -7,7 +7,7 @@ food_data = [
     {"name": "Sinigang na Baboy", "calories": 300, "date_added": str(date.today())},
     {"name": "Lechon", "calories": 500, "date_added": str(date.today())},
     {"name": "Pancit Canton", "calories": 350, "date_added": str(date.today())},
-    {"name": "Kare-Kare", "calories": 450, "date_added": str(date.today())},
+    {"name": "Kare-Kare", "calories": 460, "date_added": str(date.today())},
     {"name": "Lumpiang Shanghai", "calories": 200, "date_added": str(date.today())},
     {"name": "Sisig", "calories": 400, "date_added": str(date.today())},
     {"name": "Bicol Express", "calories": 350, "date_added": str(date.today())},
