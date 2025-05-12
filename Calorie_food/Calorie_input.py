@@ -7,7 +7,7 @@ def load_food_data():
         with open("philippine_food_dataset.json", "r") as file:
             return json.load(file)
     except FileNotFoundError:
-        print("❌ JSON file not found!")
+        print("❌ file not found!")
         return []
 
 
@@ -24,7 +24,7 @@ def calculate_calories(food_name, grams, food_data):
 # Main program
 def main():
     Total_calories = 0
-    limit = 2500
+    limit = 3000
     food_data = load_food_data()
     if not food_data:
         return
